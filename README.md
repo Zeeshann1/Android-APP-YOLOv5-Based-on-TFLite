@@ -3,4 +3,5 @@ Object Detection YOLOv5 Android APP deployment Based on TFLite Model
 
 
 ### REFERENCE
-- [yolov5-android-tflite](https://xugaoxiang.com/2022/09/06/yolov5-android-tflite/)
+- [Yolov5 Android APP TFLite](https://xugaoxiang.com/2022/09/06/yolov5-android-tflite/)
+- [GitHub](https://github.com/AarohiSingla/TFLite-Object-Detection-Android-App-Tutorial-Using-YOLOv5)
